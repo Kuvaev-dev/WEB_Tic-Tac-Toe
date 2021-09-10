@@ -86,7 +86,7 @@ function myfunc() {
       document.getElementById("b6").disabled = true;
       document.getElementById("b8").disabled = true;
       document.getElementById("b9").disabled = true;
-      window.alert('PПобедил Х');
+      window.alert('Победил Х');
   }
   else if ((b2 == 'x' || b2 == 'X') && (b5 == 'x' ||
       b5 == 'X') && (b8 == 'x' || b8 == 'X')) {
